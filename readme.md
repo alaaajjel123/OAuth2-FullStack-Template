@@ -40,7 +40,7 @@ The authentication flow in this template is designed to be straightforward and s
 5. **JWT Generation**: A new JWT is generated and provided to the frontend.
 6. **User Session Management**: The frontend manages the user session using the JWT.
 
-![Authentication Flow with Google OAuth2](![Authentication Flow](img/oauth2_flow.png))
+![Authentication Flow with Google OAuth2]![Authentication Flow](img/oauth2_flow.png)
 
 ## 🛠️ How It Works
 
