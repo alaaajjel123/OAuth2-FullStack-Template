@@ -74,37 +74,32 @@ The authentication flow in this template is designed to be straightforward and s
 
 ## 🚀 Getting Started
 
-1. **Clone the Repository**:
+This repository provides a complete template for OAuth2 login using Google as an authentication provider. It serves as a foundation that you can extend to implement the logic of your application.
+
+### Steps to Use This Template:
+
+1. **Clone the Repository** (Replace with your actual repo URL).
+2. **Navigate to the Frontend or Backend Directory**:
    ```bash
-   git clone https://github.com/your-username/oauth2-template.git
-   ```
-2. **Navigate to the Desired Frontend/Backend**:
-   ```bash
-   cd oauth2-template/frontend/angular
-   cd oauth2-template/backend/expressjs
-   ```
+   cd oauth2-template/frontend
+   # or
+   cd oauth2-template/backend
+
 3. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-4. **Run the Application**:
-   ```bash
-   npm start
-   ```
+
+npm install
+
+4. **Start the Application**:
+
+npm start
+
+5. **Add Your Custom Logic and start building your application.**
+
 
 ## 🤝 Contributing
 
-We welcome contributions! Please read our `CONTRIBUTING.md` for details on how to submit pull requests, report issues, and suggest improvements.
+Feel free to clone, modify, and extend this template. If you'd like to add support for other frontend or backend frameworks, you’re encouraged to do so. Once you've made your changes, create a pull request to review the contributions!
 
-## 📜 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-
-## 🙏 Acknowledgments
-
-Thanks to the open-source community for providing the tools and libraries that made this project possible.
-
-Special thanks to Google for their OAuth2 implementation.
 
 Happy Coding! 🎉
 
