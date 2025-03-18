@@ -86,12 +86,15 @@ This repository provides a complete template for OAuth2 login using Google as an
    cd oauth2-template/backend
 
 3. **Install Dependencies**:
-
-npm install
+   ```bash
+   npm install
 
 4. **Start the Application**:
 
-npm start
+   ```bash
+   npm start
+
+(Commands may vary depending on the chosen framework.)
 
 5. **Add Your Custom Logic and start building your application.**
 
