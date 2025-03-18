@@ -80,18 +80,22 @@ This repository provides a complete template for OAuth2 login using Google as an
 
 1. **Clone the Repository** (Replace with your actual repo URL).
 2. **Navigate to the Frontend or Backend Directory**:
+   for example
    ```bash
-   cd oauth2-template/frontend
+   cd oauth2-template/frontend/next_js
    # or
-   cd oauth2-template/backend
+   cd oauth2-template/backend/express
 
 3. **Install Dependencies**:
-
-npm install
+   ```bash
+   npm install
 
 4. **Start the Application**:
 
-npm start
+   ```bash
+   npm start
+
+(Commands may vary depending on the chosen framework.)
 
 5. **Add Your Custom Logic and start building your application.**
 
